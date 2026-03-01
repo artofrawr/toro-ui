@@ -1,2 +1,2 @@
 # toro-ui
-A registry of beautiful components and building block for shadcn/ui.
+A registry of components and building block for shadcn/ui.
